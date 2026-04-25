@@ -13,3 +13,9 @@ function useCurrencyInfo(currency) {
 }
 
 export default useCurrencyInfo
+
+
+
+
+
+// fetch(`https://api.exchangerate-api.com/v4/latest/${currency}`)
